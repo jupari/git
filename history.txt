@@ -3,3 +3,5 @@ Mi nombre es Juan pablo Rios
 Tengo 42 años, soy casado tengo una hija
 
 soy desarrollador web
+
+estudio en platzi
