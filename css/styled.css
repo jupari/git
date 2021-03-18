@@ -14,13 +14,14 @@ section{
     margin: 0 auto;
     border: 1px solid gray;
     width: 60%;
+    
 }
 
 h1{
     font-size: 3rem;
 }
 p{
-    font-size: 1.5rem;
+    font-size: 2rem;
     margin-top: 10px;
 }
 
@@ -28,5 +29,5 @@ p{
     border: 1px solid goldenrod;
     background-color: goldenrod;
     color: brown;
-    box-shadow: 2px 2px 2px 1px rgba(red, green, blue, 0.5);
+    box-shadow: 1px 1px 2px 1px rgba(131, 124, 124, 0.5);
 }
