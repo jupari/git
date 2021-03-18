@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html{
+    font-size: 62.5%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+section{
+    margin: 0 auto;
+    border: 1px solid gray;
+    width: 70%;
+}
+
+h1{
+    font-size: 3rem;
+}
+p{
+    font-size: 1.5rem;
+}
